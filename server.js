@@ -8,8 +8,7 @@ app.use(express.static('public'));
 
 app.get('/api', function(req, res){
   res.send({greeting: 'Hello, world!'});
-  console.
-});
+})
 
 app.listen('3000', function(){
   console.log('You are listening on port 3000');
