@@ -1,0 +1,19 @@
+{
+  "name": "gitforteams",
+  "version": "1.0.0",
+  "description": "Learning git team workflow with Laura, Liz, and Heidi!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyceky/gitForTeams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joyceky/gitForTeams/issues"
+  },
+  "homepage": "https://github.com/joyceky/gitForTeams#readme"
+}
