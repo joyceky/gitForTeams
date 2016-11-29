@@ -11,6 +11,7 @@ app.use((req, res) => {
 
 app.get('/api', function(req, res){
   res.send({greeting: 'Hello, world!'});
+  console.
 });
 
 app.listen('3000', function(){
