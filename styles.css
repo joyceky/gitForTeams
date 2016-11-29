@@ -1,0 +1,45 @@
+
+
+
+.headingContainer {
+background-color: #C2C9CC;
+
+
+}
+.team {
+  font-family: "Franklin Gothic Medium", sans-serif;
+
+
+}
+.members {
+  text-align: center;
+}
+
+
+
+
+/* Change the link color to #111 (black) on hover */
+
+.listContainer {
+  height: 375px;
+  background-color: #9ECCDB;
+}
+h2 {
+    font-family: "Franklin Gothic Medium", sans-serif;
+    font-size: xx-large;
+    color: #3399FF;
+    text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+.footer {
+  height: 375px;
+  background-color: #C2C9CC;
+
+}
